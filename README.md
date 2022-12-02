@@ -1,3 +1,33 @@
+# Getting Started with RESTful API
+
+To get started running the code on your system locally -
+
+** tools required (to download)
+
+-- mongo compass(offline) or mongo cloud (online)
+
+-- node (version recommended)
+
+-- postman to test the api (optional).
+
+open the project on your editor (preferrably VS Code)
+
+cd to server-api (the file name)
+
+Install nodemon to run the app.js automatically. To install nodemon use, "npm install -g nodemon"
+
+Once you cd to the server, run the app.js
+
+To run the app.js, use - "nodemon app.js"
+
+It runs on localhost:8000
+
+Go to your chrome/brave browser or postman, on your url, run "http://localhost:8000"
+
+Once it display "Running on port 8000" on your terminal, you are good to go.
+
+next is to run the React file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
