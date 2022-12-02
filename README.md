@@ -1,4 +1,4 @@
-# Getting Started with RESTful API
+# Getting Started with Backend - RESTful API
 
 To get started running the code on your system locally -
 
@@ -26,7 +26,7 @@ Go to your chrome/brave browser or postman, on your url, run "http://localhost:8
 
 Once it display "Running on port 8000" on your terminal, you are good to go.
 
-next is to run the React file.
+next is to run the React file (frontend client side).
 
 # Getting Started with Create React App
 
