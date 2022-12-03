@@ -14,6 +14,8 @@ open the project on your editor (preferrably VS Code)
 
 cd to server-api (the file name)
 
+run "npm  install" on your terminal to downlaod all dependencies 
+
 Install nodemon to run the app.js automatically. To install nodemon use, "npm install -g nodemon"
 
 Once you cd to the server, run the app.js
